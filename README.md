@@ -18,5 +18,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GByAkBCBDoU/0.jpg)](https://www.youtube.com/watch?v=GByAkBCBDoU)
 # Невесёлая Песня
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TkOmp-FwhQI/0.jpg)](https://www.youtube.com/watch?v=TkOmp-FwhQI)
-# Микс
+# Микс 1
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zHQhQVFgKU4/0.jpg)](https://www.youtube.com/watch?v=zHQhQVFgKU4)
+# Микс 2
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s8iXF9-SJ_4/0.jpg)](https://www.youtube.com/watch?v=s8iXF9-SJ_4)
